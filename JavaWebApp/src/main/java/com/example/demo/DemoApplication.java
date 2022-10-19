@@ -11,7 +11,4 @@ public class DemoApplication {
 	}
         String name = "obasi Maurice esq" today ;
 	    System.out.printIn(name);
-		Integer age ="20";
-		System.out.printIn(age+5);
-
 }

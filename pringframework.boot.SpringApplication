@@ -1,0 +1,38 @@
+[33mcommit b5f6dfbe4047b3f14f8504119d4fd0b4561b4e09[m[33m ([m[1;36mHEAD -> [m[1;32mbug-fix[m[33m, [m[1;31morigin/bug-fix[m[33m)[m
+Author: Maurice OBASI <obasimn@gmail.com>
+Date:   Tue Oct 18 20:09:28 2022 -0600
+
+    modified the code as  per demo 123
+
+[33mcommit 51d1f69865511b2d126181f98c3b48326a5e3cbc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 4fd421c b8541f5
+Author: Maurice OBASI <97995325+mauriceobasi@users.noreply.github.com>
+Date:   Tue Oct 18 19:55:25 2022 -0600
+
+    Merge pull request #1 from mauriceobasi/feature/demo-25
+    
+    modified the code as  per demo -25
+
+[33mcommit b8541f549b7cb7eb9e1112aec5e6606930a74873[m[33m ([m[1;31morigin/feature/demo-25[m[33m, [m[1;32mfeature/demo-25[m[33m)[m
+Author: Maurice OBASI <obasimn@gmail.com>
+Date:   Tue Oct 18 18:17:49 2022 -0600
+
+    modified the code as  per demo -25
+
+[33mcommit 4fd421c8f68a47b0663505633f5725b2286f2f34[m
+Author: Maurice OBASI <obasimn@gmail.com>
+Date:   Tue Oct 18 17:50:05 2022 -0600
+
+    second commit
+
+[33mcommit bb82d0133d59f4fdf6c1c0072202cfd64839854d[m
+Author: Maurice OBASI <obasimn@gmail.com>
+Date:   Mon Oct 17 18:37:23 2022 -0600
+
+    first commit
+
+[33mcommit 1cd41354b4963c5eb28ff9032c88597085a485f3[m
+Author: Maurice OBASI <97995325+mauriceobasi@users.noreply.github.com>
+Date:   Mon Oct 17 17:50:08 2022 -0600
+
+    Initial commit
